@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/home/cobalt/AndroidStudioProjects/OpenCV3-FaceDetection/libraries/opencv/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/cobalt/AndroidStudioProjects/OpenCV3-FaceDetection/libraries/opencv/src/androidTest/assets"/></dataSet></merger>
